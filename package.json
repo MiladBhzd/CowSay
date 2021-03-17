@@ -1,0 +1,22 @@
+{
+  "name": "cowsay",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MiladBhzd/CowSay.git"
+  },
+  "author": "Milad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MiladBhzd/CowSay/issues"
+  },
+  "homepage": "https://github.com/MiladBhzd/CowSay#readme",
+  "dependencies": {
+    "cowsay": "^1.4.0"
+  }
+}
